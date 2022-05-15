@@ -26,4 +26,4 @@
 
 ### Analytics:
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=multihyphenat3&" alt="multihyphenat3" width="300" object-fit="cover"/>&nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs?username=multihyphenat3&show_icons=true&locale=en&layout=compact" width="300" alt="multihyphenat3" object-fit="cover"/>&nbsp<img src="https://github-readme-stats.vercel.app/api?username=multihyphenat3&show_icons=true&locale=en" alt="multihyphenat3" width="300" object-fit="cover" /></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=multihyphenat3&" alt="multihyphenat3" width="200" object-fit="cover"/>&nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs?username=multihyphenat3&show_icons=true&locale=en&layout=compact" width="200" alt="multihyphenat3" object-fit="cover"/>&nbsp<img src="https://github-readme-stats.vercel.app/api?username=multihyphenat3&show_icons=true&locale=en" alt="multihyphenat3" width="200" object-fit="cover" /></p>
